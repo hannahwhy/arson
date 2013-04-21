@@ -1,0 +1,19 @@
+1. arson
+
+Arson is a collection of Ember.js controls that I've built up whilst making
+Ember.js applications.
+
+You can get embers from committing arson, but you usually don't want to be
+associated with it unless you can get away with it.  That ought to give you
+some idea of whether or not you want to use this package.
+
+2. Requirements
+
+Arson is tested against, and should be used with, the latest release candidate
+of Ember.js 1.0.  Some controls may have other requirements; e.g. various
+jQuery UI modules.
+
+3. License and authorship
+
+Copyright 2013 David Yip.  Published under the MIT License; see LICENSE for
+more details.
